@@ -1,0 +1,32 @@
+# Data Professional Survey Breakdown - Power BI Project
+
+## 📊 Project Overview
+This project analyzes survey data from data professionals to uncover insights about salaries, job roles, tools used, and overall job satisfaction across the data industry.
+
+The dashboard provides an interactive and visual breakdown of key trends, helping understand the current state of the data field.
+
+## 🛠 Tools Used
+- Power BI
+- Excel (Data Cleaning)
+
+## 📈 Key Features
+- Interactive dashboard with filters and slicers
+- Salary analysis by job title and country
+- Visualization of popular programming languages
+- Work-life balance and job satisfaction insights
+- Comparison between different roles in the data field
+
+## 🔍 Insights
+- Identifies the highest-paying roles in data careers
+- Highlights the most commonly used tools and languages
+- Shows trends in job satisfaction among data professionals
+- Provides a clear comparison across countries and experience levels
+
+## 🖼 Dashboard Preview
+![Dashboard](dashboard.png)
+
+## 📁 Dataset
+The dataset is based on a survey of data professionals, including information about job titles, salaries, tools, and personal experiences in the field.
+
+## 🎯 Outcome
+This project helps aspiring and current data professionals understand industry trends and make informed career decisions.
